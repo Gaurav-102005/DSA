@@ -34,12 +34,10 @@ public:
             int ceil = -1;
             int floor = -1;
 
-            // ceil
             if(it != arr.end()) {
                 ceil = *it;
             }
 
-            // floor
             if(it != arr.end() && *it == key) {
                 floor = key;
             }
