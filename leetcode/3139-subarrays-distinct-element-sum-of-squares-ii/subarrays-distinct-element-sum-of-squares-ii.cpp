@@ -1,4 +1,3 @@
-
 class Solution {
     static const long long MOD = 1'000'000'007LL;
 
